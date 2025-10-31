@@ -43,7 +43,7 @@ implementation = ./ontology
 shapes = ./shacl-shapes
 examples = ./rdf-examples
 tests = ./tests
-
+```
 ## 🧩 Ontology Conceptualization Image
 Every ontology development repository should include, in this root README, a visual representation of the ontology conceptualization.
 This image helps users and contributors quickly understand the ontology’s structure, key concepts, and relationships.
